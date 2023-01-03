@@ -1,5 +1,5 @@
 """ Create a python project using OS module to fetch all the excel files from one folder and move 
-    it to new folder named excel_files
+    it to new folder
     """
 
 #import modules
